@@ -1,0 +1,5 @@
+bitcore
+bitcore-*
+success
+failure
+*.sw[a-z]

@@ -1,0 +1,6 @@
+bitpay bitcore-payment-protocol
+bitpay bitcore-p2p
+bitpay bitcore-mnemonic
+bitpay bitcore-ecies
+bitpay bitcore-channel
+bitpay bitcore-explorers
