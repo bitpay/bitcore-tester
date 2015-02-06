@@ -4,3 +4,4 @@ bitpay bitcore-mnemonic
 bitpay bitcore-ecies
 bitpay bitcore-channel
 bitpay bitcore-explorers
+bitpay bitcore-message
